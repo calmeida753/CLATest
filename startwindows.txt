@@ -1,2 +1,3 @@
     "start:testwindows": "set NODE_ENV=DEVELOPMENT&& nest start --watch",
     "start:testwindows": "set NODE_ENV=DEVELOPMENT&& nest start --watch",
+    "start:testwindows": "set NODE_ENV=DEVELOPMENT&& nest start --watch",
